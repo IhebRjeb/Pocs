@@ -12,10 +12,3 @@ This repo may include PoCs related to:
 - Network utilities
 - And more...
 
-## Disclaimer
-
-This repository is intended for educational and research purposes only. Use responsibly and only in environments where you have proper authorization.
-
-## License
-
-[MIT](LICENSE)
