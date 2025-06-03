@@ -1,0 +1,9 @@
+{
+    "name": "tutorials/job-queue-tut",
+    "autoload": {
+        "psr-4": {
+            "JobQueueTut\\": "src/"
+        }
+    },
+    "require": {}
+}
